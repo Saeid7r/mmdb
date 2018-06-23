@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 ~$age processing with python.docx
 *.tmp
+data/*
