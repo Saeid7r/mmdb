@@ -2,3 +2,7 @@
 ~$age processing with python.docx
 *.tmp
 data/*
+*.jpg
+*.png
+*.JPG
+*PNG
