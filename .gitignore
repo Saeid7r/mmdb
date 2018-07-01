@@ -5,5 +5,5 @@ data/*
 *.jpg
 *.png
 *.JPG
-*PNG
+*.PNG
 !asset/*
